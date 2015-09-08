@@ -1,0 +1,15 @@
+#
+# Updates to the database section of the hue.ini file for Oracle support
+ #
+[[database]]
+  engine=oracle
+# Enter the database IP address of Hostname
+  host=
+# Enter the port number for the database
+  port=
+# Enter the name of the Hue user
+  user=
+# Enter the password for the Hue user
+  password=
+# Enter the name of the database
+  name=
